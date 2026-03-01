@@ -6,6 +6,13 @@
   box-sizing: border-box;
 }
 
-html{
+html, body{
   font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+#__next{
+  height: 100%;
+
 }
